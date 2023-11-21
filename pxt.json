@@ -1,5 +1,5 @@
 {
-    "name": "Encrypted Messages",
+    "name": "Simple Message Cipher",
     "description": "",
     "dependencies": {
         "core": "*",
